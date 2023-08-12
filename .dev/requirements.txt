@@ -1,0 +1,4 @@
+# Basic dependencies
+black
+flake8
+jupyter
