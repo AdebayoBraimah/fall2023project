@@ -1,5 +1,9 @@
 # fall2023project
-Project repository for Fall 2023
+-----
+
+Project repository for Fall 2023.
+
+Additional project updates and ideas are tracked [here](https://docs.google.com/document/d/1dAC3PbRFhyn5d6C20mu9IZUByrOPYdFOuoT-tBWvpok/edit) in this Google document.
 
 ## Mon., 14 Aug 2023
 
