@@ -2,3 +2,12 @@
 black
 flake8
 jupyter
+
+# PyTorch-Lightning
+torch 
+torchvision 
+torchaudio 
+torchtext
+pytorch-lightning
+lightning
+tensorboard

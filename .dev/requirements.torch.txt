@@ -1,4 +1,0 @@
-# PyTorch-Lightning
-pytorch-lightning
-lightning
-tensorboard
