@@ -42,7 +42,8 @@ pip install -r requirements.txt
 
 # Install MPS-accelerated PyTorch
 # MPS acceleration is available on MacOS 12.3+
-pip3 install --pre torch torchvision torchaudio torchtext --index-url https://download.pytorch.org/whl/nightly/cpu
+# pip3 install --pre torch torchvision torchaudio torchtext --index-url https://download.pytorch.org/whl/nightly/cpu
+
 
 # Install 
 pip install -r requirements.torch.txt
