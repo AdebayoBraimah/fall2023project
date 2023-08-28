@@ -11,3 +11,4 @@ torchtext
 pytorch-lightning
 lightning
 tensorboard
+torchviz
