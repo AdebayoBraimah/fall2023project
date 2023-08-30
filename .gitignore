@@ -161,3 +161,4 @@ cython_debug/
 
 # Project specific files and directories
 MNIST
+lightning_logs
