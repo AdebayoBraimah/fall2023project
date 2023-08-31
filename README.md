@@ -22,9 +22,9 @@ Results are located in ``sandbox4`` notebook. At the moment, not all tasks assig
 
 #### Before Thr.
 
-- [] Add option to store gradient norm of each layer, stored separately
-- [] Create table, row -> model, col -> specs (grad norm, layerwise norm, specify train/test accuracy), list number of tunable parameters for each model.
-- [] Add norms of total and/or per layer parameters to the table.
+- [X] Add option to store gradient norm of each layer, stored separately
+- [X] Create table, row -> model, col -> specs (grad norm, layerwise norm, specify train/test accuracy), list number of tunable parameters for each model.
+- [X] Add norms of total and/or per layer parameters to the table.
 - [] GradCam (wishlist or next step)
 
 
