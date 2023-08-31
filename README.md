@@ -4,6 +4,11 @@ Project repository for Fall 2023.
 
 Additional project updates and ideas are tracked [here](https://docs.google.com/document/d/1dAC3PbRFhyn5d6C20mu9IZUByrOPYdFOuoT-tBWvpok/edit) in this Google document.
 
+
+## Thurs., 31 Aug 2023
+
+Need to debug/figure out why model(s') performance is/are drastically different from notebooks 4 and 6 & 7.
+
 ## Mon., 28 Aug 2023
 
 Results are located in ``sandbox4`` notebook. At the moment, not all tasks assigned from Mon., 14 Aug 2023 have been completed. So far:
